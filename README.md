@@ -1,2 +1,2 @@
-# Armstrong
+# Armstrong Number
 Armstrong Number
